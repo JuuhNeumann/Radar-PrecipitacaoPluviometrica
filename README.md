@@ -1,6 +1,11 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/91341760/211373546-a8e37d20-5140-4a21-8f05-b66780b816f9.png" />
+</div>
+
+<div align="center">
 <i><h6>Projeto desenvolvido para Iniciação Científica como bônus, referente ao LNCC (Laboratório Nacianal de Computação Científica).
 </div>
+  
 <a name="back-to-top">
 
 <p align="center">
