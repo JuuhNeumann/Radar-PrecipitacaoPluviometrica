@@ -15,8 +15,8 @@
   </h2>
   </p> 
   </br>
-  
-    # 💻 Projeto:
+    
+    <summary>💻 Projeto:</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais + Radar Metereológico + Estação Pluviométrica**
 
 <details>
