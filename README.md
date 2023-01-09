@@ -17,7 +17,7 @@
   </br>
   
     # 💻 Projeto:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais + Radares Metereológicos + Estações Pluviométricas**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais + Radar Metereológico + Estação Pluviométrica**
 
 <details>
   <summary>✔️ Funcionalidades:</summary>
