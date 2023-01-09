@@ -15,9 +15,12 @@
   </h2>
   </p> 
   </br>
-    
-    <summary>💻 Projeto:</summary>
+  
+  - Este projeto tem como objetivo prever a média da medida de precipitação pluviométrica por meio de estações pluviométricas a partir da concentração espacial de nuvens por meio de radares metereológicos no estado do Rio de Janeiro.
+  
+  # 💻 Projeto:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Inteligência Artificial + Aprendizado de máquina + Análise de dados + Redes Neurais + Radar Metereológico + Estação Pluviométrica**
+
 
 <details>
   <summary>✔️ Funcionalidades:</summary>
